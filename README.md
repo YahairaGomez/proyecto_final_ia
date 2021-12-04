@@ -1,4 +1,4 @@
-# PROYECTO FINAL DE IA - DETECCIÓN DE ARMAS EN IMAGENES HACIENDO USO DE DEEP LEARNING
+# PROYECTO FINAL DE IA - DETECCIÓN DE ARMAS EN IMÁGENES HACIENDO USO DE DEEP LEARNING
 Los sistemas actuales implementados para la vigilancia y control de armas todavía requieren supervisión humano (visión e intervención) y pueden llegar a ser costosas o incluso
 con porcentajes de error alto. En este trabajo proponemos hacer uso de redes convolucionales con el modelo VGG16 para la resolución de este problema.
 
