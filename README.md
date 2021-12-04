@@ -12,9 +12,14 @@ En "cnn.py" tenemos el código para entrenar a nuestra red y en "tester.py" el c
 Para instalar descargue la carpeta la carpeta completa y ejecute el programa tester.py. En caso quiera entrenar la red ejecute cnn.py
 
 ### Demo 🔧
-El programa toma como entrada las imagenes de la carpeta "tester", en este caso son 3 imágenes
+El programa toma como entrada las imagenes de la carpeta "tester", en este caso son 3 imágenes:
+La primera que muestra a una persona con un arma de fuego
 <img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/gun.jpg">
+
+La segunda una imagen de un arma blanca
 <img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/knife.jpg">
+
+La tercera es una persona sin armas
 <img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/person.jpg">
 
 Luego, ejecutamos el programa tester.py el cual retorna una matriz, donde el número de filas es la cantidad de imágenes evaluadas y las columnas contienen la probabilidad 
