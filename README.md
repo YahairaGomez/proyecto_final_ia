@@ -14,7 +14,9 @@ Para instalar descargue la carpeta la carpeta completa y ejecute el programa tes
 ### Demo 🔧
 El programa toma como entrada las imagenes de la carpeta "tester", en este caso son 3 imágenes:
 La primera que muestra a una persona con un arma de fuego
-<img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/gun.jpg" width="250">
+
+
+<img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/gun.jpg" width="480">
 
 La segunda una imagen de un arma blanca
 <img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/knife.jpg">
