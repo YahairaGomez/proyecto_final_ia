@@ -13,7 +13,9 @@ Para instalar descargue la carpeta la carpeta completa y ejecute el programa tes
 
 ### Demo 🔧
 El programa toma como entrada las imagenes de la carpeta "tester", en este caso son 3 imágenes
-<img src="https://github.com/YahairaGomez/proyecto_final_ia">
+<img src="https://github.com/YahairaGomez/proyecto_final_ia/gun.jpg">
+<img src="https://github.com/YahairaGomez/proyecto_final_ia/knife.jpg">
+<img src="https://github.com/YahairaGomez/proyecto_final_ia/person.jpg">
 
 Luego, ejecutamos el programa tester.py el cual retorna una matriz, donde el número de filas es la cantidad de imágenes evaluadas y las columnas contienen la probabilidad 
 de que cada imagen pertenezca a la clase 1, 2 y 3 respectivamente
