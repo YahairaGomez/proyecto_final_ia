@@ -20,14 +20,15 @@ La segunda una imagen de un arma blanca
 <img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/knife.jpg">
 
 La tercera es una persona sin armas
+
+
 <img src="https://github.com/YahairaGomez/proyecto_final_ia/blob/master/test/person.jpg">
 
 Luego, ejecutamos el programa tester.py el cual retorna una matriz, donde el número de filas es la cantidad de imágenes evaluadas y las columnas contienen la probabilidad 
 de que cada imagen pertenezca a la clase 1, 2 y 3 respectivamente
 
 <img src="https://github.com/YahairaGomez/IA/blob/main/Images/resultado.jpg">
-
-En este caso la primera imagen que es "gun.jpg" tiene un mayor porcentaje de pertenecer a la clase 2 que es con armas de juego.
+En este caso la primera imagen que es "gun.jpg" tiene un mayor porcentaje (48.99%) de pertenecer a la clase 2 que es con armas de juego.
 
 ## Autor ✒️
 
